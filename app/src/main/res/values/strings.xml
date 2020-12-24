@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">AboutmeClase23122020</string>
+    <string name="app_name">gvp</string>
+    <string name="large_text"><![CDATA[
+        "Garcy Valenzuela Peña.\n\n"
+
+        "    I am a project manager, consultant, and teacher. Currently  living in Santiago, Chile.\n\n"
+
+        "    My interests range from photography to writing.\n"
+        "I am also interested in music, education, and innovation.\n\n"
+
+        "                 You can click the button above to read my blog.\n\n"
+
+        "    If you’d like to get in touch, feel free to say hello through any of the social links"
+         "below..\n"
+
+
+    ]]></string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment"></string>
+    <string name="contact_button">Contactarme ahora</string>
+    <string name="ingrese_su_mensaje">Ingrese su Mensaje</string>
 </resources>
